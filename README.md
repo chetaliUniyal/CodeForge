@@ -23,4 +23,10 @@ FEATURES
 
 4.Dynamic update: displays temprature,humidity,wind speed,longitude,latitude along with weather icons
 
-This app is made by only using HTML,CSSa and Javascript.This is a user friendly weather app anyone can use it easily and it is also easy to make 
+This app is made by only using HTML,CSSa and Javascript.This is a user friendly weather app anyone can use it easily and it is also easy to make.
+
+![weather jpg](https://github.com/user-attachments/assets/5d8af50f-10a9-4f6e-a58a-e2e9d5cf999f)
+
+![weather1 jpg](https://github.com/user-attachments/assets/817809de-1c91-4e0c-abc7-999f32f1cd8b)
+
+![weather2 jpg](https://github.com/user-attachments/assets/59914c49-8c04-49dd-9ffb-ea3f843be531)
