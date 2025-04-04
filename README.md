@@ -29,6 +29,4 @@ This app is made by only using HTML,CSSa and Javascript.This is a user friendly 
 
 
 
-                   ![weather1 jpg](https://github.com/user-attachments/assets/746b4e88-93f8-4b3a-ac0c-6ef0fd6a1d17)
-             
-                   ![weather2 jpg](https://github.com/user-attachments/assets/0513f408-5538-4d5d-889a-bf5562e70c1b)
+                  
